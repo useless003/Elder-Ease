@@ -32,4 +32,4 @@ twilio==8.7.0
 ultralytics==8.0.70
 wikipedia==1.4.0
 winotify==1.1.0
-~pencv_python==4.5.4.60
+opencv_python
